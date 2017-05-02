@@ -28,6 +28,3 @@
 + Explain the concept of “unifying colour”.
 + Why colour palettes matter.
 + Complementary and analogue colours.
-
----
-Find out more about our [Unity Certification Preparation Course](https://www.udemy.com/unitycert?couponCode=GitHubDiscount).
