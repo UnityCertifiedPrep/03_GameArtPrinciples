@@ -5,6 +5,7 @@
 + Art choices that affect game mood.
 + Video game genres and their distinctions.
 + Identifying different video game mechanics.
+
 (Unique Video Reference: 1_GA_CRT)
 
 ### Game Art Principles »  Non-Player Characters 1/2 ###
